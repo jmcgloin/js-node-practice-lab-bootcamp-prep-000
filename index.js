@@ -7,4 +7,4 @@ console.log(`Name: ${name}`)
 //console.log(name)
 
 console.log(`Height: ${height}`)
-console.log(height)
+//console.log(height)
