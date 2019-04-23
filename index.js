@@ -3,8 +3,8 @@
 var name = "Jason"
 var height = "77"
 
-console.log("Name:")
-console.log(name)
+console.log(`Name: ${name}`)
+//console.log(name)
 
-console.log("Height:")
+console.log(`Height: ${height}`)
 console.log(height)
